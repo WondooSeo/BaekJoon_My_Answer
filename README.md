@@ -1,2 +1,5 @@
 # BaekJoon_My_Answer
-Does it will update...?
+
+This repo is for saving my answer codes of [BaekJoon](https://www.acmicpc.net/)
+
+Language : Python 3
