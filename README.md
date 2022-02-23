@@ -1,4 +1,4 @@
-# BaekJoon_My_Answer
+# BaekJoon Step Question
 
 This repo is for saving my answer codes of [BaekJoon Online Judge step question](https://www.acmicpc.net/step).
 
