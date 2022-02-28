@@ -1,6 +1,6 @@
 ※ _This project is licensed under the terms of the MIT license._ ※
 
-# Baekjoon Online Judge Step Question
+# Baekjoon Online Judge Step Question with Python
 
 Language : Python 3
 
