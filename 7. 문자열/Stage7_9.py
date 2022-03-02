@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
 # Another explanation
 '''
-    import sys
+import sys
 
 if __name__ == '__main__':
     word = list(sys.stdin.readline().rstrip())
