@@ -19,4 +19,5 @@ There is no comment on codes, so if you have any question on them, please use [I
 [6. 함수](https://github.com/WondooSeo/Baekjoon_OJ_Step_Question_with_Python/tree/main/6.%20%ED%95%A8%EC%88%98)</br>
 [7. 문자열](https://github.com/WondooSeo/Baekjoon_OJ_Step_Question_with_Python/tree/main/7.%20%EB%AC%B8%EC%9E%90%EC%97%B4)</br>
 [8. 기본 수학 1](https://github.com/WondooSeo/Baekjoon_OJ_Step_Question_with_Python/tree/main/8.%20%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%201)</br>
-[9. 기본 수학 2](https://github.com/WondooSeo/Baekjoon_OJ_Step_Question_with_Python/tree/main/9.%20%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%202)**
+[9. 기본 수학 2](https://github.com/WondooSeo/Baekjoon_OJ_Step_Question_with_Python/tree/main/9.%20%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%202)</br>
+[18. 스택](https://github.com/WondooSeo/Baekjoon_OJ_Step_Question_with_Python/tree/main/18.%20%EC%8A%A4%ED%83%9D)**
