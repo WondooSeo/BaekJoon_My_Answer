@@ -8,6 +8,10 @@ This repo is for saving my answer codes of [BaekJoon Online Judge step question]
 
 There is no (or few) comments on codes, so if you have any question on them, please use [Issues](https://github.com/WondooSeo/Baekjoon_OJ_Step_Question_with_Python/issues).
 
+이 레포는 [백준 온라인 저지 단계별로 풀어보기](https://www.acmicpc.net/step)에서의 제 파이썬 정답 코드를 저장하기 위해 만들어 졌습니다.
+
+코드에 주석이 아예 또는 거의 없으므로, 만약 궁금한 것이 있다면 [Issues](https://github.com/WondooSeo/Baekjoon_OJ_Step_Question_with_Python/issues) 탭을 사용해주시기 바랍니다.
+
 ---
 
 ### Finished Category
