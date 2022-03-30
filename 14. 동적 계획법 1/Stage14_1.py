@@ -1,4 +1,4 @@
-import sys
+import sy
 
 def fibo_dp(num):
     f0 = [1, 0, 1]
