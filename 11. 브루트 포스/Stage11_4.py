@@ -6,7 +6,6 @@ if __name__ == '__main__':
     for _ in range(N):
         chesspan.append(list(sys.stdin.readline().rstrip()))
 
-    pan_pattern = [list('WBWBWBWB'),list('BWBWBWBW')]
     count = list()
 
     for i in range(N-7):
