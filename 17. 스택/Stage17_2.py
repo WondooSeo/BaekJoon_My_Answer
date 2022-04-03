@@ -2,7 +2,7 @@ import sys
 
 if __name__ == '__main__':
     N = int(sys.stdin.readline().rstrip())
-    stack = []
+    stack = list()
 
     for _ in range(N):
         num = int(sys.stdin.readline().rstrip())
