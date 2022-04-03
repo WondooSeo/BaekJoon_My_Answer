@@ -1,7 +1,7 @@
 import sys
 
 if __name__ == '__main__':
-	a_list = []
+	a_list = list()
 	for i in range(10):
 		a_list.append(int(input()))
 	judge = [0]*42
