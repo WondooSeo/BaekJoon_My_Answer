@@ -11,7 +11,6 @@ if __name__ == '__main__':
             _, cloth_type = sys.stdin.readline().rstrip().split()
             if cloth_type not in cloth_dict:
                 cloth_dict[cloth_type] = 1
-
             else:
                 cloth_dict[cloth_type] += 1
 
