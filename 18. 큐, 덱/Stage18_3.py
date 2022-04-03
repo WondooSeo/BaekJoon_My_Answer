@@ -2,7 +2,7 @@ import sys
 from collections import deque
 
 if __name__ == '__main__':
-    N,K = map(int,sys.stdin.readline().rstrip().split())
+    N, K = map(int, sys.stdin.readline().rstrip().split())
     N_queue = deque(list(range(N)))
     turn = 0
     josepus = []
@@ -14,11 +14,11 @@ if __name__ == '__main__':
         else:
             N_queue.append(N_queue.popleft())
 
-    print('<',end='')
+    print('<', end='')
     for i in range(N):
-        print(josepus[i],end='')
+        print(josepus[i], end='')
         if i == N-1:
             break
         else:
-            print(', ',end='')
+            print(', ', end='')
     print('>')
