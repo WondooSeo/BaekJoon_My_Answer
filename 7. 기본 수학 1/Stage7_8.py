@@ -1,4 +1,4 @@
-a,b = map(int,input().split())
+a, b = map(int, input().split())
 print(a+b)
 
 # Python은 format에 관해 제한은 거의 없다고 보면 되기에 평소대로 작성하면 끝
