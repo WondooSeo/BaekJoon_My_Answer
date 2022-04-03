@@ -4,7 +4,7 @@ def prime_sleve(a):
 	is_prime = [1]*a
 	sleve = []
 
-	for i in range(1,int(a**(0.5))+1):
+	for i in range(1, int(a**(0.5))+1):
 		if i == 1:
 			is_prime[i-1] = 0
 
