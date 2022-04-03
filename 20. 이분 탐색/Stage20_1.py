@@ -2,9 +2,9 @@ import sys
 
 if __name__ == '__main__':
     N = int(sys.stdin.readline().rstrip())
-    list_A = sorted(list(map(int,sys.stdin.readline().rstrip().split())))
+    list_A = sorted(list(map(int, sys.stdin.readline().rstrip().split())))
     M = int(sys.stdin.readline().rstrip())
-    searching_list = list(map(int,sys.stdin.readline().rstrip().split()))
+    searching_list = list(map(int, sys.stdin.readline().rstrip().split()))
 
     for searching_num in searching_list:
         start = 0; end = N-1;
