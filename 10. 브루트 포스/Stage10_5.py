@@ -7,7 +7,7 @@ if __name__ == '__main__':
 
 	while i < n:
 		a += 1
-		if str(a).count('666')>0:
+		if str(a).count('666') > 0:
 			i += 1
 
 	print(a)
