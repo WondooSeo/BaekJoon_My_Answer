@@ -2,7 +2,7 @@ import sys
 
 if __name__ == '__main__':
     word = sys.stdin.readline().rstrip()
-    dial = ['ABC','DEF','GHI','JKL','MNO','PQRS','TUV','WXYZ']
+    dial = ['ABC', 'DEF', 'GHI', 'JKL', 'MNO', 'PQRS', 'TUV', 'WXYZ']
     word_list = list(word.upper())
     count = 0
 
