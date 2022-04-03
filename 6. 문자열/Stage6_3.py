@@ -1,5 +1,3 @@
-import sys
-
 if __name__ == '__main__':
 	a = list(input())
 	loc_alp = [-1]*26
@@ -8,4 +6,4 @@ if __name__ == '__main__':
 		if loc_alp[alp] == -1:
 			loc_alp[alp] = i
 	for i in loc_alp:
-		print(i,end=' ')
+		print(i, end=' ')
