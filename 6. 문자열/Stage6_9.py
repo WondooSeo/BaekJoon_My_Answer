@@ -6,25 +6,25 @@ if __name__ == '__main__':
     count = 0
     pivot = 0
     while pivot < len_word:
-        if word[pivot] == 'c' and pivot+1<len_word and (word[pivot+1]=='=' or word[pivot+1]=='-'):
+        if word[pivot] == 'c' and pivot+1 < len_word and (word[pivot+1] == '=' or word[pivot+1] == '-'):
                 count += 1
                 pivot += 2
-        elif word[pivot] == 'd' and pivot+2<len_word and word[pivot+1]=='z' and word[pivot+2]=='=':
+        elif word[pivot] == 'd' and pivot+2 < len_word and word[pivot+1] == 'z' and word[pivot+2] == '=':
                 count += 1
                 pivot += 3
-        elif word[pivot] == 'd' and pivot+1<len_word and word[pivot+1]=='-':
+        elif word[pivot] == 'd' and pivot+1 < len_word and word[pivot+1] == '-':
                 count += 1
                 pivot += 2
-        elif word[pivot] == 'l' and pivot+1<len_word and word[pivot+1]=='j':
+        elif word[pivot] == 'l' and pivot+1 < len_word and word[pivot+1] == 'j':
                 count += 1
                 pivot += 2
-        elif word[pivot] == 'n' and pivot+1<len_word and word[pivot+1]=='j':
+        elif word[pivot] == 'n' and pivot+1 < len_word and word[pivot+1] == 'j':
                 count += 1
                 pivot += 2
-        elif word[pivot] == 's' and pivot+1<len_word and word[pivot+1]=='=':
+        elif word[pivot] == 's' and pivot+1 < len_word and word[pivot+1] == '=':
                 count += 1
                 pivot += 2
-        elif word[pivot] == 'z' and pivot+1<len_word and word[pivot+1]=='=':
+        elif word[pivot] == 'z' and pivot+1 < len_word and word[pivot+1] == '=':
                 count += 1
                 pivot += 2
         else:
@@ -33,7 +33,7 @@ if __name__ == '__main__':
 
     print(count)
 
-# Another explanation
+# Another solve method
 '''
 import sys
 
