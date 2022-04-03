@@ -35,10 +35,10 @@ if __name__ == '__main__':
     calc = sys.stdin.readline().rstrip().split('-')
     now_result = 0
 
-    now_result += sum(list(map(int,calc[0].split('+'))))
+    now_result += sum(list(map(int, calc[0].split('+'))))
 
     if len(calc) > 1:
-        for i in range(1,len(calc)):
-            now_result -= sum(list(map(int,calc[i].split('+'))))
+        for i in range(1, len(calc)):
+            now_result -= sum(list(map(int, calc[i].split('+'))))
 
     print(now_result)
