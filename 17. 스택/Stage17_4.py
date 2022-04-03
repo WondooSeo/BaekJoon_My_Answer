@@ -7,7 +7,7 @@ if __name__ == '__main__':
             break
 
         sentence = list(sentence)
-        braket_stack = []
+        braket_stack = list()
 
         pivot = True
 
