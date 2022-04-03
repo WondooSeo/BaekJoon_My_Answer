@@ -2,7 +2,7 @@ import sys
 
 if __name__ == '__main__':
 	a = int(input())
-	ans = []
+	ans = list()
 	for i in range(a):
 		result = list(input())
 		score = 0
