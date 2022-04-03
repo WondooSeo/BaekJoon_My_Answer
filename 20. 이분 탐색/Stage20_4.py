@@ -1,8 +1,8 @@
 import sys
 
 if __name__ == '__main__':
-    N,M = map(int,sys.stdin.readline().rstrip().split())
-    tree_list = list(map(int,sys.stdin.readline().rstrip().split()))
+    N, M = map(int, sys.stdin.readline().rstrip().split())
+    tree_list = list(map(int, sys.stdin.readline().rstrip().split()))
 
     min_tree = 0; max_tree = max(tree_list);
 
