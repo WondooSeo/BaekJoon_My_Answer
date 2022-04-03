@@ -8,7 +8,7 @@ if __name__ == '__main__':
     for c in a_list:
         cnt.append(a.count(c))
 
-    if cnt.count(max(cnt))>1:
+    if cnt.count(max(cnt)) > 1:
         print('?')
     else:
         print(a_list[cnt.index(max(cnt))])
