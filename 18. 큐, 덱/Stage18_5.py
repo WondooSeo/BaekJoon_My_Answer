@@ -3,7 +3,7 @@ from collections import deque
 
 if __name__ == '__main__':
     N = int(input())
-    queue = deque([])
+    queue = deque(list())
 
     for _ in range(N):
         com = sys.stdin.readline().rstrip().split()
