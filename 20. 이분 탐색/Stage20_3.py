@@ -3,6 +3,7 @@ import sys
 if __name__ == '__main__':
     K, N = list(map(int, sys.stdin.readline().rstrip().split()))
     lan_list = list()
+
     for _ in range(K):
         lan_list.append(int(sys.stdin.readline().rstrip()))
 
