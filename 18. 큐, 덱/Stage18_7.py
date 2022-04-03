@@ -12,13 +12,11 @@ if __name__ == '__main__':
 
         if len(array) != 0:
             array = deque(list(array.split(',')))
-
         else:
             array = deque(list())
 
         if cmd_deque.count('D') > len(array):
             print('error')
-
         else:
             count_R = 0
             for cmd in cmd_deque:
