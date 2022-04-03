@@ -1,7 +1,6 @@
 import sys
 
 if __name__ == '__main__':
-
     # Counting sort
     N = int(sys.stdin.readline().rstrip())
     num_list = [0]*10000
