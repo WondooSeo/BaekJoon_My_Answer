@@ -1,8 +1,7 @@
 import sys
 
 if __name__ == '__main__':
-
-    N, K = map(int,sys.stdin.readline().rstrip().split())
+    N, K = map(int, sys.stdin.readline().rstrip().split())
     money_unit_list = list()
 
     for _ in range(N):
