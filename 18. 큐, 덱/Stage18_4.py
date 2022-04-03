@@ -5,10 +5,10 @@ if __name__ == '__main__':
 	N = int(sys.stdin.readline().rstrip())
 
 	for _ in range(N):
-		N,M = map(int,sys.stdin.readline().rstrip().split())
+		N, M = map(int, sys.stdin.readline().rstrip().split())
 		print_queue = deque([])
 
-		print_importance = list(map(int,sys.stdin.readline().rstrip().split()))
+		print_importance = list(map(int, sys.stdin.readline().rstrip().split()))
 		for i in range(len(print_importance)):
 			print_queue.append(print_importance[i])
 			if i == M:
