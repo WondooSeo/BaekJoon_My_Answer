@@ -3,7 +3,7 @@ from collections import Counter
 
 if __name__ == '__main__':
 	N = int(sys.stdin.readline().rstrip())
-	num_list = []
+	num_list = list()
 
 	for _ in range(N):
 		num_list.append(int(sys.stdin.readline().rstrip()))
