@@ -1,5 +1,5 @@
 if __name__ == '__main__':
-	a_list = []
+	a_list = list()
 	for i in range(9):
 		a_list.append(int(input()))
 
