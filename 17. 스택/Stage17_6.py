@@ -28,7 +28,7 @@ if __name__ == '__main__':
     num_list = list(map(int, sys.stdin.readline().rstrip().split()))
 
     nge = [-1]*N
-    num_stack = []
+    num_stack = list()
 
     for i in range(N):
         while len(num_stack) != 0 and num_list[num_stack[-1]] < num_list[i]:
