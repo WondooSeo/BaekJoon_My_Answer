@@ -8,7 +8,7 @@
 
 </div>
   
-This repo is for saving my Python 3 answer codes of [***Baekoon Online Judge Step problem***](https://www.acmicpc.net/step).
+This repo is for saving my Python 3 answer codes of [***Baekoon Online Judge Step problems***](https://www.acmicpc.net/step).
 
 There is no (or few) comments on codes, so if you have any question on them, please use [***Issues***](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/issues).
 
